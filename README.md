@@ -6,24 +6,23 @@ This project uses Python to perform exploratory data analysis (EDA) on stroke an
 
 The analysis includes:
 
-Calculating mortality rates using population data
-Identifying the top 5 CCGs with the highest mortality rates
-Visualising results using bar charts
+- Calculating mortality rates using population data
+- Identifying the top 5 CCGs with the highest mortality rates
+- Visualising results using bar charts
 
-**Technologies Used:**
+**Python packages used:**
 
-Python
-Pandas
-NumPy
-Seaborn
-Matplotlib
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
 
 **Key Features:**
 
-Data cleaning and preprocessing
-Mortality rate calculations
-Exploratory data analysis
-Bar chart visualisation of the top 5 highest mortality rates
+- Data cleaning and preprocessing
+- Mortality rate calculations
+- Exploratory data analysis
+- Bar chart visualisation of the top 5 highest mortality rates
 
 **Conclusion:**
 
