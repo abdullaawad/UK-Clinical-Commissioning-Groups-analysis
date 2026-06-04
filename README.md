@@ -2,7 +2,7 @@
 
 **Overview:**
 
-This project uses Python to perform exploratory data analysis (EDA) on stroke and heart disease mortality rates across UK Clinical Commissioning Groups (CCGs).
+This project uses Python to perform exploratory data analysis (EDA) on stroke and heart disease mortality rates across UK Clinical Commissioning Groups; currently known as Integrated Care Systems (ICS).
 
 The analysis includes:
 
